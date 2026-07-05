@@ -22,6 +22,18 @@ I enjoy developing software that automates research workflows, processes complex
 
 ---
 
+## 🌱 Research Interests
+
+- Research Software Engineering
+- Educational Technology
+- Data Analysis
+- Computer Vision
+- Automation
+- Music and Movement Analysis
+- Human–Computer Interaction
+
+---
+
 ## 📂 Featured Projects
 ### 🎥 VideoFlow *(Collaborative Research Project – Private Repository)*
 
@@ -38,18 +50,6 @@ Designed and developed a substantial portion of an automated Python pipeline for
 
 **Technologies**
 Python • OpenCV • Pandas • MediaPipe • Librosa • MoviePy
-
----
-
-## 🌱 Research Interests
-
-- Research Software Engineering
-- Educational Technology
-- Data Analysis
-- Computer Vision
-- Automation
-- Music and Movement Analysis
-- Human–Computer Interaction
 
 ---
 
