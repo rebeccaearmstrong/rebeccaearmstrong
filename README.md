@@ -1,6 +1,6 @@
 # Hi, I'm Rebecca Armstrong 
 
-I'm a researcher and software developer with a **BA in Mathematics & Music** and an **MA in Cultural Anthropology**. I'm beginning a **PhD in Education**, where my research combines technology, data analysis, and interdisciplinary approaches to understanding learning, movement, and human interaction.
+I'm an interdisciplinary researcher with a **BA in Mathematics & Music** and an **MA in Cultural Anthropology**. I'm beginning a **PhD in Education**, where my research combines technology, data analysis, and interdisciplinary approaches to understanding learning, movement, and human interaction.
 
 I enjoy developing software that automates research workflows, processes complex datasets, and analyses video and audio recordings. My interests include Python development, research software engineering, data analysis, computer vision, and educational technology.
 
